@@ -1,0 +1,14 @@
+D:\Поиск работы\Клеверенс софт\Задача2\bin\Debug\net7.0\Задача2.exe
+D:\Поиск работы\Клеверенс софт\Задача2\bin\Debug\net7.0\Задача2.deps.json
+D:\Поиск работы\Клеверенс софт\Задача2\bin\Debug\net7.0\Задача2.runtimeconfig.json
+D:\Поиск работы\Клеверенс софт\Задача2\bin\Debug\net7.0\Задача2.dll
+D:\Поиск работы\Клеверенс софт\Задача2\bin\Debug\net7.0\Задача2.pdb
+D:\Поиск работы\Клеверенс софт\Задача2\obj\Debug\net7.0\Задача2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Поиск работы\Клеверенс софт\Задача2\obj\Debug\net7.0\Задача2.AssemblyInfoInputs.cache
+D:\Поиск работы\Клеверенс софт\Задача2\obj\Debug\net7.0\Задача2.AssemblyInfo.cs
+D:\Поиск работы\Клеверенс софт\Задача2\obj\Debug\net7.0\Задача2.csproj.CoreCompileInputs.cache
+D:\Поиск работы\Клеверенс софт\Задача2\obj\Debug\net7.0\Задача2.dll
+D:\Поиск работы\Клеверенс софт\Задача2\obj\Debug\net7.0\refint\Задача2.dll
+D:\Поиск работы\Клеверенс софт\Задача2\obj\Debug\net7.0\Задача2.pdb
+D:\Поиск работы\Клеверенс софт\Задача2\obj\Debug\net7.0\Задача2.genruntimeconfig.cache
+D:\Поиск работы\Клеверенс софт\Задача2\obj\Debug\net7.0\ref\Задача2.dll
