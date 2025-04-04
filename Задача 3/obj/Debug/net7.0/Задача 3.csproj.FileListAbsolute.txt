@@ -26,3 +26,17 @@ D:\Поиск работы\Клеверенс софт\Задача 3\obj\Debug\
 D:\Поиск работы\Клеверенс софт\Задача 3\obj\Debug\net7.0\Задача 3.pdb
 D:\Поиск работы\Клеверенс софт\Задача 3\obj\Debug\net7.0\Задача 3.genruntimeconfig.cache
 D:\Поиск работы\Клеверенс софт\Задача 3\obj\Debug\net7.0\ref\Задача 3.dll
+D:\Репозиторий\Задача 3\bin\Debug\net7.0\Задача 3.exe
+D:\Репозиторий\Задача 3\bin\Debug\net7.0\Задача 3.deps.json
+D:\Репозиторий\Задача 3\bin\Debug\net7.0\Задача 3.runtimeconfig.json
+D:\Репозиторий\Задача 3\bin\Debug\net7.0\Задача 3.dll
+D:\Репозиторий\Задача 3\bin\Debug\net7.0\Задача 3.pdb
+D:\Репозиторий\Задача 3\obj\Debug\net7.0\Задача 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Репозиторий\Задача 3\obj\Debug\net7.0\Задача 3.AssemblyInfoInputs.cache
+D:\Репозиторий\Задача 3\obj\Debug\net7.0\Задача 3.AssemblyInfo.cs
+D:\Репозиторий\Задача 3\obj\Debug\net7.0\Задача 3.csproj.CoreCompileInputs.cache
+D:\Репозиторий\Задача 3\obj\Debug\net7.0\Задача 3.dll
+D:\Репозиторий\Задача 3\obj\Debug\net7.0\refint\Задача 3.dll
+D:\Репозиторий\Задача 3\obj\Debug\net7.0\Задача 3.pdb
+D:\Репозиторий\Задача 3\obj\Debug\net7.0\Задача 3.genruntimeconfig.cache
+D:\Репозиторий\Задача 3\obj\Debug\net7.0\ref\Задача 3.dll

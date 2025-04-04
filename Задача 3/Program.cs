@@ -32,19 +32,28 @@ if (ans6){
             String str = line;
             String s1 = "Дата"; 
             String s2 = "Время";
-            String s3 = "УровеньЛогирования";
+            String s3 = "УровеньЛогирования: INFORMATION";
             String s4 = "ВызвавшийМетод";
             String s5 = "Сообщение";
+            String s8 = "УровеньЛогирования: WARNING";
+            String s9 = "УровеньЛогирования: ERROR";
+            String s10 = "УровеньЛогирования: DEBUG";
             bool ans;
             bool ans2;
             bool ans3;
             bool ans4;
             bool ans5;
+            bool ans8;
+            bool ans9;
+            bool ans10;
             ans = str.Contains(s1);
             ans2 = str.Contains(s2);
             ans3 = str.Contains(s3);
             ans4 = str.Contains(s4);
             ans5 = str.Contains(s5);
+            ans8 = str.Contains(s8);
+            ans9 = str.Contains(s9);
+            ans10 = str.Contains(s10);
             if (ans)
             {   
                 string result = string.Empty;
@@ -90,9 +99,31 @@ if (ans6){
                 string emp = string.Empty;
                 await writer.WriteLineAsync(emp);
             }
+            if (ans8)
+            {
+                string result = string.Empty;
+                result = line.Remove(0, 20);
+                string newresult = string.Empty;
+                newresult = result.Remove(4, 3);
+                await writer.WriteLineAsync(newresult);
+            }
+            if (ans9)
+            {
+                string result = string.Empty;
+                result = line.Remove(0, 20);
+                await writer.WriteLineAsync(result);
+
+            }
+             if (ans10)
+            {
+                string result = string.Empty;
+                result = line.Remove(0, 20);
+                await writer.WriteLineAsync(result);
+
             }
         }
-}
+        }
+    }
 }
 
 

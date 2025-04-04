@@ -15,3 +15,9 @@ MobileComputer.GetDeviceId
 
 
 
+2025-03-10
+15:14:49.523
+INFO
+DEFAULT
+Версия программы: ‘3.4.0.48729’
+
